@@ -26,7 +26,17 @@ public class Aula08ArraysMultidimensionais {
         }
 
 
-        //paramos na aula 37
+        System.out.println("=============================================");
+        for (int[] arraysDentroDaVariavelDias: dias ){
+            //pra cada array dentro do array dias
+            for (int num: arraysDentroDaVariavelDias) {
+                //pra cada numero dentro de cada array dentro do array dias
+                System.out.println(num);
+            }
+        }
+
+
+
 
 
 
