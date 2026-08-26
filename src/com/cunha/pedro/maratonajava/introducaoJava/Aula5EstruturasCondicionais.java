@@ -1,4 +1,4 @@
-package com.pedro.cunha.introducaoJava;
+package com.cunha.pedro.maratonajava.introducaoJava;
 
 public class Aula5EstruturasCondicionais {
     static void main() {

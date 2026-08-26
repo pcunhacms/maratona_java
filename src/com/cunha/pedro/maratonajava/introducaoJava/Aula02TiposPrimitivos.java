@@ -1,4 +1,4 @@
-package com.pedro.cunha.introducaoJava;
+package com.cunha.pedro.maratonajava.introducaoJava;
 
 public class Aula02TiposPrimitivos {
     static void main() {

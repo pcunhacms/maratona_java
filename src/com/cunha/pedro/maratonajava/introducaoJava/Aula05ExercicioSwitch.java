@@ -1,4 +1,4 @@
-package com.pedro.cunha.introducaoJava;
+package com.cunha.pedro.maratonajava.introducaoJava;
 
 public class Aula05ExercicioSwitch {
     static void main() {
